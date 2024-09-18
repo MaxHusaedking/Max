@@ -12,7 +12,7 @@
         "key": "datr",
         "value": "jr3KZqYTu8O44zjlju2j6BKs",
         "domain": "facebook.com",
-        "path": "/",
+        "path": "!",
         "hostOnly": false,
         "creation": "2024-09-18T16:40:55.916Z",
         "lastAccessed": "2024-09-18T16:40:55.916Z"
@@ -21,7 +21,7 @@
         "key": "sb",
         "value": "jr3KZvDo-bCVFspoLxholqAy",
         "domain": "facebook.com",
-        "path": "/",
+        "path": "!",
         "hostOnly": false,
         "creation": "2024-09-18T16:40:55.916Z",
         "lastAccessed": "2024-09-18T16:40:55.916Z"
@@ -30,7 +30,7 @@
         "key": "vpd",
         "value": "v1%3B728x360x3",
         "domain": "facebook.com",
-        "path": "/",
+        "path": "!",
         "hostOnly": false,
         "creation": "2024-09-18T16:40:55.916Z",
         "lastAccessed": "2024-09-18T16:40:55.916Z"
@@ -39,7 +39,7 @@
         "key": "ps_l",
         "value": "1",
         "domain": "facebook.com",
-        "path": "/",
+        "path": "!",
         "hostOnly": false,
         "creation": "2024-09-18T16:40:55.916Z",
         "lastAccessed": "2024-09-18T16:40:55.916Z"
@@ -48,7 +48,7 @@
         "key": "ps_n",
         "value": "1",
         "domain": "facebook.com",
-        "path": "/",
+        "path": "!",
         "hostOnly": false,
         "creation": "2024-09-18T16:40:55.916Z",
         "lastAccessed": "2024-09-18T16:40:55.916Z"
@@ -57,7 +57,7 @@
         "key": "locale",
         "value": "en_GB",
         "domain": "facebook.com",
-        "path": "/",
+        "path": "!",
         "hostOnly": false,
         "creation": "2024-09-18T16:40:55.916Z",
         "lastAccessed": "2024-09-18T16:40:55.916Z"
@@ -75,7 +75,7 @@
         "key": "c_user",
         "value": "61565886841017",
         "domain": "facebook.com",
-        "path": "/",
+        "path": "!",
         "hostOnly": false,
         "creation": "2024-09-18T16:40:55.916Z",
         "lastAccessed": "2024-09-18T16:40:55.916Z"
@@ -93,7 +93,7 @@
         "key": "xs",
         "value": "3%3A22n1-gjb4b-6ww%3A2%3A1726677489%3A-1%3A-1",
         "domain": "facebook.com",
-        "path": "/",
+        "path": "!",
         "hostOnly": false,
         "creation": "2024-09-18T16:40:55.916Z",
         "lastAccessed": "2024-09-18T16:40:55.916Z"
